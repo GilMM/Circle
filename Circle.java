@@ -4,7 +4,6 @@
  * and also of the circle that blocks the rectangle
  *
  * @author Gil Meshulami
- * @version 26/10/20
  */
 
 import java.util.Scanner;
